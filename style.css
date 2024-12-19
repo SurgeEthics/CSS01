@@ -1,0 +1,142 @@
+*{
+    box-sizing: border-box;
+    margin: 0; padding: 0;
+   }
+   
+   /*Div-Id-Selector*/
+   
+   #selector1{
+       width: 50%;
+       max-width: 100%;
+       background-color: #F4FFF1;
+       margin: 0 auto; margin-top: 100px; margin-bottom: 100px;
+       padding: 10%;
+       align-self: center;
+       text-align: center;
+       border: 15px dotted #03426D;
+       outline: 15px double #F4FFF1;
+   }
+   
+   .div2{
+       background-color: #0889B5;
+       margin-top: 15px; padding: 15px;
+       color: #F4FFF1;
+       text-align: center;
+       border: 3px solid #fff;
+       outline: 2px dashed #0889B5;
+   }
+   
+   
+   /*Div-Class-Selector*/
+   
+   .selector2{
+       align-self: center;
+       align-content: center;
+       padding: 10%;
+       margin: 0 auto; margin-bottom: 100px;
+       width: 1140px;
+       max-width: 100%;
+       height: 63vh;
+       background: #03426D url(Image/camera.webp) no-repeat center scroll;
+       background-size: cover;
+       border: 7.5px solid #F4FFF1;
+       outline: 15px double #03426D
+   }
+   
+   .div3{
+       width: 50%;
+       margin-top: 15px;
+       border: 5px solid #fff;
+       outline: 3px dotted #0889B5;
+   }
+   
+   .div4{
+       background-color: #0889B5;
+       margin-top: 15px; padding: 10px;
+       color: #F4FFF1;
+       text-align: center;
+   }
+   
+   .selector3{
+       display: inline-block;
+       width: 350px;
+       max-width: 100%;
+       height: 430px;
+       background-color: #03426D;
+       margin: 8.6px;
+       padding: 15px;
+       align-self: center;
+       align-content: center;
+       text-align: center;
+       border: 1px solid #fff;
+       outline: 1px dotted #03426D;
+   }
+   
+   .div7{
+       background-color: #0889B5;
+       margin: 15px; padding: 15px;
+       color: #F4FFF1;
+       text-align: center;
+   }
+   
+   .selector4{
+       display: inline-block;
+       width: 350px;
+       max-width: 100%;
+       height: 430px;
+       background-color: #0889B5;
+       margin: 8.6px;
+       padding: 15px;
+       align-self: center;
+       align-content: center;
+       align-items: center;
+       justify-content: center;
+       text-align: center;
+       border: 1px solid #fff;
+       outline: 1px dotted #0889B5;
+   }
+   
+   .div5{
+       background-color: #03426D;
+       margin: 15px; padding: 15px;
+       color: #F4FFF1;
+       text-align: center;
+   }
+   
+   .selector5{
+       display: inline-block;
+       width: 350px;
+       max-width: 100%;
+       height: 430px;
+       background-color: #195c07;
+       margin: 8.6px;
+       padding: 15px;
+       align-self: center;
+       align-content: center;
+       text-align: center;
+       border: 1px solid #fff;
+       outline: 1px dotted #195c07
+   }
+   
+   .div6{
+       background-color: #fff;
+       margin: 15px; padding: 15px;
+       color: #000;
+       text-align: center;
+   }
+   
+   .selector6{
+       align-self: center;
+       align-content: center;
+       align-items: center;
+       margin: 0 auto; margin-bottom: 300px;
+       padding: 15px;
+       background: rgb(255, 196, 0) url(Image/Islamic\ Cloth\ 2.webp) repeat-y center fixed;
+       background-size: contain;
+       width: 1150px;
+       max-width: 100%;
+       height: 63vh;
+       max-height: 100%;
+       border: 5px dotted #F4FFF1;
+       outline: 5px solid rgb(255, 196, 0);
+   }
